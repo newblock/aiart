@@ -1,0 +1,41 @@
+
+.header{
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+
+.logo{
+    align-items:center;
+    display: flex;
+}
+
+.logo img{
+    width: 48px;
+    height: 48px;
+}
+
+.logo span{
+    font-size: 16px;
+    padding-left: 6px;
+}
+
+.footer{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.content{
+    text-align: center;
+}
+
+.imgList{
+    align-items:center; 
+    display: flex;
+    margin-top: 50px;
+}
+
+.imgList img{
+    width: 200px;
+    height: 200px;
+}
