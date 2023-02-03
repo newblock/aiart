@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7eea5808.css",
+    "main.js": "./static/js/main.694d1088.js",
+    "static/media/news_icon.png": "./static/media/news_icon.667dc6f9bff26d618147.png",
+    "index.html": "./index.html",
+    "main.7eea5808.css.map": "./static/css/main.7eea5808.css.map",
+    "main.694d1088.js.map": "./static/js/main.694d1088.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7eea5808.css",
+    "static/js/main.694d1088.js"
+  ]
+}
